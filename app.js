@@ -8,8 +8,6 @@ let Post = require("./models/postModel");
 let methodOverride = require("method-override");
 
 
-// let db = "mongodb+srv://drapakayura:rqtrsFj4h4ZOyDax@cluster0.n6mbsmt.mongodb.net/Node-blog";
-
 
 
 
